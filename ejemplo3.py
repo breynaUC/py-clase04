@@ -1,0 +1,17 @@
+c =set([1,2,3,4,5,6,7,8,9])
+#MÉTODOS
+#add
+c.add(10)
+print(c)
+#remove(<elem>)
+c.remove(4)
+print(c)
+#discrad(<elem>)
+c.discard(5)
+print(c)
+#c.pop()
+c.pop()
+print(c)
+#c.clear()
+c.clear()
+print(c)
